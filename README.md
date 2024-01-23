@@ -44,5 +44,6 @@ PREVIEW SITE:-
 
 
 
+![image](https://github.com/kunal8987/text-formatter/assets/95977696/9e50ebdb-3602-49f0-b98b-b6779d7aa0c6)
 
 
