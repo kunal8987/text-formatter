@@ -43,6 +43,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 PREVIEW SITE:-
 
 
-![image](https://github.com/kunal8987/text-utils/assets/95977696/6bb42677-5f6c-49b5-907b-f8d2b13e0c74)
+
 
 
